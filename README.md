@@ -19,6 +19,6 @@
 
 - Music RPC support for mobile music players <i>Other then Spotify</i>
 
-<h1>© Chlove 2024</h1>
-### Licenced under the [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
-### Send me a email at [ihateyouchlove@proton.me](mailto:ihateyouchlove@proton.me)
+<h2>© Chlove 2024</h2>
+<h4>Licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a></h4>
+<h4>Complain to me <a href="mailto:ihateyouchlove@proton.me">ihateyouchlove@proton.me</a></h4>
